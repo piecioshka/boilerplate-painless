@@ -1,3 +1,3 @@
 # boilerplate-painless-babel
 
-🍴 Starter with Painless
+🍴 Starter with Painless & Babel.js
