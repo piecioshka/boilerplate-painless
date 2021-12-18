@@ -7,7 +7,7 @@ const {
   sinon,
   chai,
 } = require("painless");
-import { Example } from "../src/example";
+import { Example } from "./example";
 
 const test = createGroup();
 

@@ -1,8 +1,14 @@
 {
   "private": true,
-  "name": "painless",
-  "version": "0.0.0",
+  "name": "boilerplate-painless",
   "description": "",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Piotr Kowalski",
+    "email": "piecioshka@gmail.com",
+    "url": "https://piecioshka.pl/"
+  },
   "scripts": {
     "test": "babel-node ./node_modules/.bin/painless src/*.spec.js",
     "coverage": "nyc npm run test"
