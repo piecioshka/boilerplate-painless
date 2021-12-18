@@ -14,8 +14,8 @@
     "coverage": "nyc npm run test"
   },
   "devDependencies": {
-    "@babel/node": "^7.16.0",
-    "@babel/preset-env": "^7.16.4",
+    "@babel/node": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
     "nyc": "^15.1.0",
     "painless": "^0.9.7"
   }
