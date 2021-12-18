@@ -1,3 +1,8 @@
 # boilerplate-painless-babel
 
 🍴 Starter with Painless & Babel.js
+
+## Features
+
+* :white_check_mark: Painless `v0.9.7`
+* :white_check_mark: Babel.js `v7.16.5`
